@@ -4,4 +4,4 @@ Electronics Engineer. PhD student in Engineering (Signals & Image Processing) at
 
 <p align="center">
 <a href="https://twitter.com/efectomiller"><img width="7%" src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
-<a href="https://orcid.org/0000-0002-8639-309X"><img width="7%" src=" https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="orcid"/></a> 
+<a href="https://orcid.org/0000-0002-8639-309X"><img width="7%" src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="orcid"/></a> 
